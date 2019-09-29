@@ -6,8 +6,8 @@
 
     引入依赖: dubbo zkclient，以及 服务提供方的API
     
-    配置zookeeper 注册中心
+    配置文件，配置zookeeper 注册中心
     
-    使用dubbo注解 @Reference 引入服务提供者
+    业务层 使用dubbo注解 @Reference 引入服务提供者
     
 3.启动消费方（先启动服务提供方）
